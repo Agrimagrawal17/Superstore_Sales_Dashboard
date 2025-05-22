@@ -33,7 +33,8 @@ I’ve used the publicly available **Superstore Sales** dataset for this project
 - Sales Forecast (with future prediction using built-in Power BI forecasting tool)
 
 📷 **Dashboard Snapshot:**
-![Superstore Sales Dashboard](https://github.com/tanshigarg/Super-Store-Sales-Dashboard/blob/6c19df3f12c66f24407ea58d665ebc7b938bc012/superstore%20dashboard.png)
+![image](https://github.com/user-attachments/assets/2b875bc2-4a0a-4c39-b00a-2ab473db98fa)
+
 
 ---
 
