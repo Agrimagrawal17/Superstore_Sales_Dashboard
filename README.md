@@ -12,7 +12,8 @@ This Power BI project provides an end-to-end analysis of **Superstore sales data
 ## 📦 Dataset
 I’ve used the publicly available **Superstore Sales** dataset for this project.
 
-🔗 [Download Dataset (Excel)]([https://github.com/Agrimagrawal17/Super-Store-Sales-Dashboard/blob/6c19df3f12c66f24407ea58d665ebc7b938bc012/SuperStore_Sales_Dataset.csv](https://drive.google.com/file/d/1_9flJAjgfVzz_D6Jx0jCsOVFWya7AgLe/view?usp=sharing))
+🔗 [Download Dataset (Excel)]
+([https://github.com/Agrimagrawal17/Super-Store-Sales-Dashboard/blob/6c19df3f12c66f24407ea58d665ebc7b938bc012/SuperStore_Sales_Dataset.csv](https://drive.google.com/file/d/1_9flJAjgfVzz_D6Jx0jCsOVFWya7AgLe/view?usp=sharing))
 
 ---
 
