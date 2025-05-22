@@ -12,12 +12,12 @@ This Power BI project provides an end-to-end analysis of **Superstore sales data
 ## 📦 Dataset
 I’ve used the publicly available **Superstore Sales** dataset for this project.
 
-🔗 [Download Dataset (Excel)](https://github.com/tanshigarg/Super-Store-Sales-Dashboard/blob/6c19df3f12c66f24407ea58d665ebc7b938bc012/SuperStore_Sales_Dataset.csv)
+🔗 [Download Dataset (Excel)](https://github.com/Agrimagrawal17/Super-Store-Sales-Dashboard/blob/6c19df3f12c66f24407ea58d665ebc7b938bc012/SuperStore_Sales_Dataset.csv)
 
 ---
 
 ## 📁 Power BI File
-🔗 [Download PBIX File](https://github.com/tanshigarg/Super-Store-Sales-Dashboard/blob/6c19df3f12c66f24407ea58d665ebc7b938bc012/Super%20Store%20Sales.pbix)
+🔗 [Download PBIX File](https://github.com/Agrimagrawal17/Super-Store-Sales-Dashboard/blob/6c19df3f12c66f24407ea58d665ebc7b938bc012/Super%20Store%20Sales.pbix)
 
 ---
 
@@ -32,10 +32,10 @@ I’ve used the publicly available **Superstore Sales** dataset for this project
 - Sales Forecast (with future prediction using built-in Power BI forecasting tool)
 
 📷 **Dashboard Snapshot:**
-![Superstore Sales Dashboard](https://github.com/tanshigarg/Super-Store-Sales-Dashboard/blob/6c19df3f12c66f24407ea58d665ebc7b938bc012/superstore%20dashboard.png)
+![Superstore Sales Dashboard](https://github.com/Agrimagrawal17/Super-Store-Sales-Dashboard/blob/6c19df3f12c66f24407ea58d665ebc7b938bc012/superstore%20dashboard.png)
 
 📷 **Sales Forecast View:**
-![Sales Forecast](https://github.com/tanshigarg/Super-Store-Sales-Dashboard/blob/6c19df3f12c66f24407ea58d665ebc7b938bc012/Superstore%20Sales%20forecast.png)
+![Sales Forecast](https://github.com/Agrimagrawal17/Super-Store-Sales-Dashboard/blob/6c19df3f12c66f24407ea58d665ebc7b938bc012/Superstore%20Sales%20forecast.png)
 
 ---
 
@@ -53,6 +53,6 @@ I’ve used the publicly available **Superstore Sales** dataset for this project
 
 ## 📌 Author
 
-Created with ❤️ by Tanshi Garg
+Created with ❤️ by Agrim Agrawal
 
 
