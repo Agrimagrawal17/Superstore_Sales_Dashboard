@@ -36,6 +36,11 @@ I’ve used the publicly available **Superstore Sales** dataset for this project
 ![image](https://github.com/user-attachments/assets/2b875bc2-4a0a-4c39-b00a-2ab473db98fa)
 
 
+📷**Sales Forcast view:**
+![image](https://github.com/user-attachments/assets/0c4c0f6c-8c33-42a6-9b4d-7df48dbfc733)
+
+
+
 ---
 
 ## 📈 Key Insights
